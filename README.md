@@ -1,6 +1,6 @@
 # OpenSoundMeter
 
-Design of a **continuous-measurement sound-level meter with Wi-Fi connectivity**, to be integrated into the sensor network of the Escuela Politécnica de Cáceres, [SmartPoliTech Project}(http://smartpolitech.unex.es/).
+Design of a **continuous-measurement sound-level meter with Wi-Fi connectivity**, to be integrated into the sensor network of the Escuela Politécnica de Cáceres, ([SmartPoliTech Project](http://smartpolitech.unex.es/)).
 
 You can find both the printed circuit board (PCB) that performs the preamplification and the necessary weightings for the adaptation of the signals captured through the microphone and the Arduino code.
 
