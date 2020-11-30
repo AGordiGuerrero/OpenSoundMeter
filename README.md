@@ -1,6 +1,6 @@
 # OpenSoundMeter
 
-Design of a **continuous-measurement sound-level meter with Wi-Fi connectivity**, to be integrated into the sensor network of the Escuela Politécnica de Cáceres, ([SmartPoliTech](http://smartpolitech.unex.es/)).
+Design of a **continuous-measurement sound-level meter with Wi-Fi connectivity**, to be integrated into the sensor network of the Escuela Politécnica de Cáceres, [SmartPoliTech](http://smartpolitech.unex.es/).
 
 ![](https://raw.githubusercontent.com/AGordiGuerrero/OpenSoundMeter/master/photos/9.jpg)
 
@@ -14,4 +14,4 @@ It was calibrated and compared with the reference equipment [Brüel&Kjaer 2250 l
 
 ![](https://raw.githubusercontent.com/AGordiGuerrero/OpenSoundMeter/master/photos/comparacion02.png)
 
-You can find the whole information of the project (in spanish) at [Smart Open Lab](www.smartopenlab.com)
+You can find the whole information of the project (in Spanish) at [Smart Open Lab](https://www.smartopenlab.com/proyecto/diseno-de-sonometro-de-medicion-continua-con-conectividad-wi-fi-basado-en-open-source/)
