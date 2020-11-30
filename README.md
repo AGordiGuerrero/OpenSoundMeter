@@ -6,11 +6,11 @@ You can find both the printed circuit board (PCB) that performs the preamplifica
 
 #¡[Test imagen](https://github.com/AGordiGuerrero/OpenSoundMeter/blob/master/photos/6.1.jpg)
 
-!https://github.com/AGordiGuerrero/OpenSoundMeter/blob/master/photos/6-1.jpg
+!(https://github.com/AGordiGuerrero/OpenSoundMeter/blob/master/photos/6-1.jpg)
 
 Otro intento
 
-https://raw.githubusercontent.com/AGordiGuerrero/OpenSoundMeter/master/photos/6-1.jpg
+1(https://raw.githubusercontent.com/AGordiGuerrero/OpenSoundMeter/master/photos/6-1.jpg)
 
 Average acoustic pressure signals are captured by the analog input of the Wemos D1 Mini board in order to send these captures to a server using the MQTT protocol. Arduino IDE, based on C ++, has been used to program the Wemos D1 Mini device.
 
