@@ -12,6 +12,6 @@ Average acoustic pressure signals are captured by the analog input of the Wemos 
 
 It was calibrated and compared with the reference equipment [Brüel&Kjaer 2250 light](https://www.bksv.com/en/products/measuring-instruments/sound-level-meter/2250-series/Type-2250-L)
 
-![](https://raw.githubusercontent.com/AGordiGuerrero/OpenSoundMeter/master/photos/comparacion02.jpg)
+![](https://raw.githubusercontent.com/AGordiGuerrero/OpenSoundMeter/master/photos/comparacion02.png)
 
 You can find the whole information of the project (in spanish) at [Smart Open Lab](www.smartopenlab.com)
